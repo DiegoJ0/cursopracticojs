@@ -13,3 +13,10 @@
 -segundo: implementar las formular en Javascript
 -tercer paso: crear funciones
 -cuarto paso: integras JS con HTML
+
+## taller # 3: promedio, mediana y moda
+
+-primer paso: definir las formulas
+-segundo: implementar las formular en Javascript
+-tercer paso: crear funciones
+-cuarto paso: integras JS con HTML
